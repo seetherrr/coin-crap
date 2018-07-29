@@ -1,0 +1,10 @@
+remove data and virtualenv from revision control!
+
+break CSVs into contiguous sections with respect to timestamp column discontintuities
+
+build a predictive RNN
+
+build a candlestick chart downsampler
+
+find existing implementations of investment signal calculations: RSI, MACD,
+Bollinger Bands, Keltner Channels, Stochastic RSI, Ichimoko Clouds
